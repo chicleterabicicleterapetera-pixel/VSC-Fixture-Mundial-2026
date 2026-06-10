@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Fixture</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='css/styles.css') }}">
+</head>
+<body>
+  <main class="fixture-wrapper">
+    <h1>Fixture del Partido</h1>
+    <form class="fixture-form">
+      <div class="scores-row">
+        <div class="score-card">
+          <label for="home-goals">Goles local</label>
+          <input type="number" id="home-goals" name="home_goals" min="0" value="0">
+        </div>
+
+        <div class="score-card">
+          <label for="away-goals">Goles visitante</label>
+          <input type="number" id="away-goals" name="away_goals" min="0" value="0">
+        </div>
+      </div>
+
+      <div class="actions-row">
+        <button type="reset">Reiniciar los datos del partido</button>
+      </div>
+    </form>
+  </main>
+</body>
+</html>

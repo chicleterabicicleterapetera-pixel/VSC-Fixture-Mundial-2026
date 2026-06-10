@@ -1,0 +1,1811 @@
+{
+  "groups": {
+    "A": [
+      "Mexico",
+      "South Africa",
+      "South Korea",
+      "Czechia"
+    ],
+    "B": [
+      "Canada",
+      "Bosnia and Herzegovina",
+      "Qatar",
+      "Switzerland"
+    ],
+    "C": [
+      "Brazil",
+      "Morocco",
+      "Haiti",
+      "Scotland"
+    ],
+    "D": [
+      "USA",
+      "Paraguay",
+      "Australia",
+      "Turkiye"
+    ],
+    "E": [
+      "Germany",
+      "Curacao",
+      "Ivory Coast",
+      "Ecuador"
+    ],
+    "F": [
+      "Netherlands",
+      "Japan",
+      "Sweden",
+      "Tunisia"
+    ],
+    "G": [
+      "Belgium",
+      "Egypt",
+      "Iran",
+      "New Zealand"
+    ],
+    "H": [
+      "Spain",
+      "Cape Verde",
+      "Saudi Arabia",
+      "Uruguay"
+    ],
+    "I": [
+      "France",
+      "Senegal",
+      "Iraq",
+      "Norway"
+    ],
+    "J": [
+      "Argentina",
+      "Algeria",
+      "Austria",
+      "Jordan"
+    ],
+    "K": [
+      "Portugal",
+      "Congo DR",
+      "Uzbekistan",
+      "Colombia"
+    ],
+    "L": [
+      "England",
+      "Croatia",
+      "Ghana",
+      "Panama"
+    ]
+  },
+  "matches": [
+    {
+      "id": "G1",
+      "round": "Grupo",
+      "group": "A",
+      "date": "2026-06-11",
+      "home": {
+        "name": "Mexico",
+        "flag": "🇲🇽"
+      },
+      "away": {
+        "name": "South Africa",
+        "flag": "🇿🇦"
+      },
+      "host": {
+        "stadium": "Estadio Azteca",
+        "city": "Mexico City",
+        "country": "Mexico",
+        "image": "https://images.unsplash.com/photo-1518638150340-f706e86654de?auto=format&fit=crop&w=900&q=80"
+      },
+      "home_goals": null,
+      "away_goals": null,
+      "played": false,
+      "winner": null
+    },
+    {
+      "id": "G2",
+      "round": "Grupo",
+      "group": "A",
+      "date": "2026-06-11",
+      "home": {
+        "name": "South Korea",
+        "flag": "🇰🇷"
+      },
+      "away": {
+        "name": "Czechia",
+        "flag": "🇨🇿"
+      },
+      "host": {
+        "stadium": "BMO Field",
+        "city": "Toronto",
+        "country": "Canada",
+        "image": "https://images.unsplash.com/photo-1517090504586-fde19ea6066f?auto=format&fit=crop&w=900&q=80"
+      },
+      "home_goals": null,
+      "away_goals": null,
+      "played": false,
+      "winner": null
+    },
+    {
+      "id": "G3",
+      "round": "Grupo",
+      "group": "A",
+      "date": "2026-06-11",
+      "home": {
+        "name": "Mexico",
+        "flag": "🇲🇽"
+      },
+      "away": {
+        "name": "South Korea",
+        "flag": "🇰🇷"
+      },
+      "host": {
+        "stadium": "SoFi Stadium",
+        "city": "Los Angeles",
+        "country": "USA",
+        "image": "https://images.unsplash.com/photo-1534190760961-74e8c1c5c3da?auto=format&fit=crop&w=900&q=80"
+      },
+      "home_goals": null,
+      "away_goals": null,
+      "played": false,
+      "winner": null
+    },
+    {
+      "id": "G4",
+      "round": "Grupo",
+      "group": "A",
+      "date": "2026-06-11",
+      "home": {
+        "name": "South Africa",
+        "flag": "🇿🇦"
+      },
+      "away": {
+        "name": "Czechia",
+        "flag": "🇨🇿"
+      },
+      "host": {
+        "stadium": "MetLife Stadium",
+        "city": "New York/New Jersey",
+        "country": "USA",
+        "image": "https://images.unsplash.com/photo-1485871981521-5b1fd3805eee?auto=format&fit=crop&w=900&q=80"
+      },
+      "home_goals": null,
+      "away_goals": null,
+      "played": false,
+      "winner": null
+    },
+    {
+      "id": "G5",
+      "round": "Grupo",
+      "group": "A",
+      "date": "2026-06-12",
+      "home": {
+        "name": "Mexico",
+        "flag": "🇲🇽"
+      },
+      "away": {
+        "name": "Czechia",
+        "flag": "🇨🇿"
+      },
+      "host": {
+        "stadium": "AT&T Stadium",
+        "city": "Dallas",
+        "country": "USA",
+        "image": "https://images.unsplash.com/photo-1546549032-9571cd6b27df?auto=format&fit=crop&w=900&q=80"
+      },
+      "home_goals": null,
+      "away_goals": null,
+      "played": false,
+      "winner": null
+    },
+    {
+      "id": "G6",
+      "round": "Grupo",
+      "group": "A",
+      "date": "2026-06-12",
+      "home": {
+        "name": "South Africa",
+        "flag": "🇿🇦"
+      },
+      "away": {
+        "name": "South Korea",
+        "flag": "🇰🇷"
+      },
+      "host": {
+        "stadium": "BC Place",
+        "city": "Vancouver",
+        "country": "Canada",
+        "image": "https://images.unsplash.com/photo-1560814304-4f05b62af116?auto=format&fit=crop&w=900&q=80"
+      },
+      "home_goals": null,
+      "away_goals": null,
+      "played": false,
+      "winner": null
+    },
+    {
+      "id": "G7",
+      "round": "Grupo",
+      "group": "B",
+      "date": "2026-06-12",
+      "home": {
+        "name": "Canada",
+        "flag": "🇨🇦"
+      },
+      "away": {
+        "name": "Bosnia and Herzegovina",
+        "flag": "🇧🇦"
+      },
+      "host": {
+        "stadium": "Hard Rock Stadium",
+        "city": "Miami",
+        "country": "USA",
+        "image": "https://images.unsplash.com/photo-1506966953602-c20cc11f75e3?auto=format&fit=crop&w=900&q=80"
+      },
+      "home_goals": null,
+      "away_goals": null,
+      "played": false,
+      "winner": null
+    },
+    {
+      "id": "G8",
+      "round": "Grupo",
+      "group": "B",
+      "date": "2026-06-12",
+      "home": {
+        "name": "Qatar",
+        "flag": "🇶🇦"
+      },
+      "away": {
+        "name": "Switzerland",
+        "flag": "🇨🇭"
+      },
+      "host": {
+        "stadium": "Estadio BBVA",
+        "city": "Monterrey",
+        "country": "Mexico",
+        "image": "https://images.unsplash.com/photo-1585464231875-d9ef1f5ad396?auto=format&fit=crop&w=900&q=80"
+      },
+      "home_goals": null,
+      "away_goals": null,
+      "played": false,
+      "winner": null
+    },
+    {
+      "id": "G9",
+      "round": "Grupo",
+      "group": "B",
+      "date": "2026-06-13",
+      "home": {
+        "name": "Canada",
+        "flag": "🇨🇦"
+      },
+      "away": {
+        "name": "Qatar",
+        "flag": "🇶🇦"
+      },
+      "host": {
+        "stadium": "Estadio Azteca",
+        "city": "Mexico City",
+        "country": "Mexico",
+        "image": "https://images.unsplash.com/photo-1518638150340-f706e86654de?auto=format&fit=crop&w=900&q=80"
+      },
+      "home_goals": null,
+      "away_goals": null,
+      "played": false,
+      "winner": null
+    },
+    {
+      "id": "G10",
+      "round": "Grupo",
+      "group": "B",
+      "date": "2026-06-13",
+      "home": {
+        "name": "Bosnia and Herzegovina",
+        "flag": "🇧🇦"
+      },
+      "away": {
+        "name": "Switzerland",
+        "flag": "🇨🇭"
+      },
+      "host": {
+        "stadium": "BMO Field",
+        "city": "Toronto",
+        "country": "Canada",
+        "image": "https://images.unsplash.com/photo-1517090504586-fde19ea6066f?auto=format&fit=crop&w=900&q=80"
+      },
+      "home_goals": null,
+      "away_goals": null,
+      "played": false,
+      "winner": null
+    },
+    {
+      "id": "G11",
+      "round": "Grupo",
+      "group": "B",
+      "date": "2026-06-13",
+      "home": {
+        "name": "Canada",
+        "flag": "🇨🇦"
+      },
+      "away": {
+        "name": "Switzerland",
+        "flag": "🇨🇭"
+      },
+      "host": {
+        "stadium": "SoFi Stadium",
+        "city": "Los Angeles",
+        "country": "USA",
+        "image": "https://images.unsplash.com/photo-1534190760961-74e8c1c5c3da?auto=format&fit=crop&w=900&q=80"
+      },
+      "home_goals": null,
+      "away_goals": null,
+      "played": false,
+      "winner": null
+    },
+    {
+      "id": "G12",
+      "round": "Grupo",
+      "group": "B",
+      "date": "2026-06-13",
+      "home": {
+        "name": "Bosnia and Herzegovina",
+        "flag": "🇧🇦"
+      },
+      "away": {
+        "name": "Qatar",
+        "flag": "🇶🇦"
+      },
+      "host": {
+        "stadium": "MetLife Stadium",
+        "city": "New York/New Jersey",
+        "country": "USA",
+        "image": "https://images.unsplash.com/photo-1485871981521-5b1fd3805eee?auto=format&fit=crop&w=900&q=80"
+      },
+      "home_goals": null,
+      "away_goals": null,
+      "played": false,
+      "winner": null
+    },
+    {
+      "id": "G13",
+      "round": "Grupo",
+      "group": "C",
+      "date": "2026-06-14",
+      "home": {
+        "name": "Brazil",
+        "flag": "🇧🇷"
+      },
+      "away": {
+        "name": "Morocco",
+        "flag": "🇲🇦"
+      },
+      "host": {
+        "stadium": "AT&T Stadium",
+        "city": "Dallas",
+        "country": "USA",
+        "image": "https://images.unsplash.com/photo-1546549032-9571cd6b27df?auto=format&fit=crop&w=900&q=80"
+      },
+      "home_goals": null,
+      "away_goals": null,
+      "played": false,
+      "winner": null
+    },
+    {
+      "id": "G14",
+      "round": "Grupo",
+      "group": "C",
+      "date": "2026-06-14",
+      "home": {
+        "name": "Haiti",
+        "flag": "🇭🇹"
+      },
+      "away": {
+        "name": "Scotland",
+        "flag": "🏴"
+      },
+      "host": {
+        "stadium": "BC Place",
+        "city": "Vancouver",
+        "country": "Canada",
+        "image": "https://images.unsplash.com/photo-1560814304-4f05b62af116?auto=format&fit=crop&w=900&q=80"
+      },
+      "home_goals": null,
+      "away_goals": null,
+      "played": false,
+      "winner": null
+    },
+    {
+      "id": "G15",
+      "round": "Grupo",
+      "group": "C",
+      "date": "2026-06-14",
+      "home": {
+        "name": "Brazil",
+        "flag": "🇧🇷"
+      },
+      "away": {
+        "name": "Haiti",
+        "flag": "🇭🇹"
+      },
+      "host": {
+        "stadium": "Hard Rock Stadium",
+        "city": "Miami",
+        "country": "USA",
+        "image": "https://images.unsplash.com/photo-1506966953602-c20cc11f75e3?auto=format&fit=crop&w=900&q=80"
+      },
+      "home_goals": null,
+      "away_goals": null,
+      "played": false,
+      "winner": null
+    },
+    {
+      "id": "G16",
+      "round": "Grupo",
+      "group": "C",
+      "date": "2026-06-14",
+      "home": {
+        "name": "Morocco",
+        "flag": "🇲🇦"
+      },
+      "away": {
+        "name": "Scotland",
+        "flag": "🏴"
+      },
+      "host": {
+        "stadium": "Estadio BBVA",
+        "city": "Monterrey",
+        "country": "Mexico",
+        "image": "https://images.unsplash.com/photo-1585464231875-d9ef1f5ad396?auto=format&fit=crop&w=900&q=80"
+      },
+      "home_goals": null,
+      "away_goals": null,
+      "played": false,
+      "winner": null
+    },
+    {
+      "id": "G17",
+      "round": "Grupo",
+      "group": "C",
+      "date": "2026-06-15",
+      "home": {
+        "name": "Brazil",
+        "flag": "🇧🇷"
+      },
+      "away": {
+        "name": "Scotland",
+        "flag": "🏴"
+      },
+      "host": {
+        "stadium": "Estadio Azteca",
+        "city": "Mexico City",
+        "country": "Mexico",
+        "image": "https://images.unsplash.com/photo-1518638150340-f706e86654de?auto=format&fit=crop&w=900&q=80"
+      },
+      "home_goals": null,
+      "away_goals": null,
+      "played": false,
+      "winner": null
+    },
+    {
+      "id": "G18",
+      "round": "Grupo",
+      "group": "C",
+      "date": "2026-06-15",
+      "home": {
+        "name": "Morocco",
+        "flag": "🇲🇦"
+      },
+      "away": {
+        "name": "Haiti",
+        "flag": "🇭🇹"
+      },
+      "host": {
+        "stadium": "BMO Field",
+        "city": "Toronto",
+        "country": "Canada",
+        "image": "https://images.unsplash.com/photo-1517090504586-fde19ea6066f?auto=format&fit=crop&w=900&q=80"
+      },
+      "home_goals": null,
+      "away_goals": null,
+      "played": false,
+      "winner": null
+    },
+    {
+      "id": "G19",
+      "round": "Grupo",
+      "group": "D",
+      "date": "2026-06-15",
+      "home": {
+        "name": "USA",
+        "flag": "🇺🇸"
+      },
+      "away": {
+        "name": "Paraguay",
+        "flag": "🇵🇾"
+      },
+      "host": {
+        "stadium": "SoFi Stadium",
+        "city": "Los Angeles",
+        "country": "USA",
+        "image": "https://images.unsplash.com/photo-1534190760961-74e8c1c5c3da?auto=format&fit=crop&w=900&q=80"
+      },
+      "home_goals": null,
+      "away_goals": null,
+      "played": false,
+      "winner": null
+    },
+    {
+      "id": "G20",
+      "round": "Grupo",
+      "group": "D",
+      "date": "2026-06-15",
+      "home": {
+        "name": "Australia",
+        "flag": "🇦🇺"
+      },
+      "away": {
+        "name": "Turkiye",
+        "flag": "🇹🇷"
+      },
+      "host": {
+        "stadium": "MetLife Stadium",
+        "city": "New York/New Jersey",
+        "country": "USA",
+        "image": "https://images.unsplash.com/photo-1485871981521-5b1fd3805eee?auto=format&fit=crop&w=900&q=80"
+      },
+      "home_goals": null,
+      "away_goals": null,
+      "played": false,
+      "winner": null
+    },
+    {
+      "id": "G21",
+      "round": "Grupo",
+      "group": "D",
+      "date": "2026-06-16",
+      "home": {
+        "name": "USA",
+        "flag": "🇺🇸"
+      },
+      "away": {
+        "name": "Australia",
+        "flag": "🇦🇺"
+      },
+      "host": {
+        "stadium": "AT&T Stadium",
+        "city": "Dallas",
+        "country": "USA",
+        "image": "https://images.unsplash.com/photo-1546549032-9571cd6b27df?auto=format&fit=crop&w=900&q=80"
+      },
+      "home_goals": null,
+      "away_goals": null,
+      "played": false,
+      "winner": null
+    },
+    {
+      "id": "G22",
+      "round": "Grupo",
+      "group": "D",
+      "date": "2026-06-16",
+      "home": {
+        "name": "Paraguay",
+        "flag": "🇵🇾"
+      },
+      "away": {
+        "name": "Turkiye",
+        "flag": "🇹🇷"
+      },
+      "host": {
+        "stadium": "BC Place",
+        "city": "Vancouver",
+        "country": "Canada",
+        "image": "https://images.unsplash.com/photo-1560814304-4f05b62af116?auto=format&fit=crop&w=900&q=80"
+      },
+      "home_goals": null,
+      "away_goals": null,
+      "played": false,
+      "winner": null
+    },
+    {
+      "id": "G23",
+      "round": "Grupo",
+      "group": "D",
+      "date": "2026-06-16",
+      "home": {
+        "name": "USA",
+        "flag": "🇺🇸"
+      },
+      "away": {
+        "name": "Turkiye",
+        "flag": "🇹🇷"
+      },
+      "host": {
+        "stadium": "Hard Rock Stadium",
+        "city": "Miami",
+        "country": "USA",
+        "image": "https://images.unsplash.com/photo-1506966953602-c20cc11f75e3?auto=format&fit=crop&w=900&q=80"
+      },
+      "home_goals": null,
+      "away_goals": null,
+      "played": false,
+      "winner": null
+    },
+    {
+      "id": "G24",
+      "round": "Grupo",
+      "group": "D",
+      "date": "2026-06-16",
+      "home": {
+        "name": "Paraguay",
+        "flag": "🇵🇾"
+      },
+      "away": {
+        "name": "Australia",
+        "flag": "🇦🇺"
+      },
+      "host": {
+        "stadium": "Estadio BBVA",
+        "city": "Monterrey",
+        "country": "Mexico",
+        "image": "https://images.unsplash.com/photo-1585464231875-d9ef1f5ad396?auto=format&fit=crop&w=900&q=80"
+      },
+      "home_goals": null,
+      "away_goals": null,
+      "played": false,
+      "winner": null
+    },
+    {
+      "id": "G25",
+      "round": "Grupo",
+      "group": "E",
+      "date": "2026-06-17",
+      "home": {
+        "name": "Germany",
+        "flag": "🇩🇪"
+      },
+      "away": {
+        "name": "Curacao",
+        "flag": "🇨🇼"
+      },
+      "host": {
+        "stadium": "Estadio Azteca",
+        "city": "Mexico City",
+        "country": "Mexico",
+        "image": "https://images.unsplash.com/photo-1518638150340-f706e86654de?auto=format&fit=crop&w=900&q=80"
+      },
+      "home_goals": null,
+      "away_goals": null,
+      "played": false,
+      "winner": null
+    },
+    {
+      "id": "G26",
+      "round": "Grupo",
+      "group": "E",
+      "date": "2026-06-17",
+      "home": {
+        "name": "Ivory Coast",
+        "flag": "🇨🇮"
+      },
+      "away": {
+        "name": "Ecuador",
+        "flag": "🇪🇨"
+      },
+      "host": {
+        "stadium": "BMO Field",
+        "city": "Toronto",
+        "country": "Canada",
+        "image": "https://images.unsplash.com/photo-1517090504586-fde19ea6066f?auto=format&fit=crop&w=900&q=80"
+      },
+      "home_goals": null,
+      "away_goals": null,
+      "played": false,
+      "winner": null
+    },
+    {
+      "id": "G27",
+      "round": "Grupo",
+      "group": "E",
+      "date": "2026-06-17",
+      "home": {
+        "name": "Germany",
+        "flag": "🇩🇪"
+      },
+      "away": {
+        "name": "Ivory Coast",
+        "flag": "🇨🇮"
+      },
+      "host": {
+        "stadium": "SoFi Stadium",
+        "city": "Los Angeles",
+        "country": "USA",
+        "image": "https://images.unsplash.com/photo-1534190760961-74e8c1c5c3da?auto=format&fit=crop&w=900&q=80"
+      },
+      "home_goals": null,
+      "away_goals": null,
+      "played": false,
+      "winner": null
+    },
+    {
+      "id": "G28",
+      "round": "Grupo",
+      "group": "E",
+      "date": "2026-06-17",
+      "home": {
+        "name": "Curacao",
+        "flag": "🇨🇼"
+      },
+      "away": {
+        "name": "Ecuador",
+        "flag": "🇪🇨"
+      },
+      "host": {
+        "stadium": "MetLife Stadium",
+        "city": "New York/New Jersey",
+        "country": "USA",
+        "image": "https://images.unsplash.com/photo-1485871981521-5b1fd3805eee?auto=format&fit=crop&w=900&q=80"
+      },
+      "home_goals": null,
+      "away_goals": null,
+      "played": false,
+      "winner": null
+    },
+    {
+      "id": "G29",
+      "round": "Grupo",
+      "group": "E",
+      "date": "2026-06-18",
+      "home": {
+        "name": "Germany",
+        "flag": "🇩🇪"
+      },
+      "away": {
+        "name": "Ecuador",
+        "flag": "🇪🇨"
+      },
+      "host": {
+        "stadium": "AT&T Stadium",
+        "city": "Dallas",
+        "country": "USA",
+        "image": "https://images.unsplash.com/photo-1546549032-9571cd6b27df?auto=format&fit=crop&w=900&q=80"
+      },
+      "home_goals": null,
+      "away_goals": null,
+      "played": false,
+      "winner": null
+    },
+    {
+      "id": "G30",
+      "round": "Grupo",
+      "group": "E",
+      "date": "2026-06-18",
+      "home": {
+        "name": "Curacao",
+        "flag": "🇨🇼"
+      },
+      "away": {
+        "name": "Ivory Coast",
+        "flag": "🇨🇮"
+      },
+      "host": {
+        "stadium": "BC Place",
+        "city": "Vancouver",
+        "country": "Canada",
+        "image": "https://images.unsplash.com/photo-1560814304-4f05b62af116?auto=format&fit=crop&w=900&q=80"
+      },
+      "home_goals": null,
+      "away_goals": null,
+      "played": false,
+      "winner": null
+    },
+    {
+      "id": "G31",
+      "round": "Grupo",
+      "group": "F",
+      "date": "2026-06-18",
+      "home": {
+        "name": "Netherlands",
+        "flag": "🇳🇱"
+      },
+      "away": {
+        "name": "Japan",
+        "flag": "🇯🇵"
+      },
+      "host": {
+        "stadium": "Hard Rock Stadium",
+        "city": "Miami",
+        "country": "USA",
+        "image": "https://images.unsplash.com/photo-1506966953602-c20cc11f75e3?auto=format&fit=crop&w=900&q=80"
+      },
+      "home_goals": null,
+      "away_goals": null,
+      "played": false,
+      "winner": null
+    },
+    {
+      "id": "G32",
+      "round": "Grupo",
+      "group": "F",
+      "date": "2026-06-18",
+      "home": {
+        "name": "Sweden",
+        "flag": "🇸🇪"
+      },
+      "away": {
+        "name": "Tunisia",
+        "flag": "🇹🇳"
+      },
+      "host": {
+        "stadium": "Estadio BBVA",
+        "city": "Monterrey",
+        "country": "Mexico",
+        "image": "https://images.unsplash.com/photo-1585464231875-d9ef1f5ad396?auto=format&fit=crop&w=900&q=80"
+      },
+      "home_goals": null,
+      "away_goals": null,
+      "played": false,
+      "winner": null
+    },
+    {
+      "id": "G33",
+      "round": "Grupo",
+      "group": "F",
+      "date": "2026-06-19",
+      "home": {
+        "name": "Netherlands",
+        "flag": "🇳🇱"
+      },
+      "away": {
+        "name": "Sweden",
+        "flag": "🇸🇪"
+      },
+      "host": {
+        "stadium": "Estadio Azteca",
+        "city": "Mexico City",
+        "country": "Mexico",
+        "image": "https://images.unsplash.com/photo-1518638150340-f706e86654de?auto=format&fit=crop&w=900&q=80"
+      },
+      "home_goals": null,
+      "away_goals": null,
+      "played": false,
+      "winner": null
+    },
+    {
+      "id": "G34",
+      "round": "Grupo",
+      "group": "F",
+      "date": "2026-06-19",
+      "home": {
+        "name": "Japan",
+        "flag": "🇯🇵"
+      },
+      "away": {
+        "name": "Tunisia",
+        "flag": "🇹🇳"
+      },
+      "host": {
+        "stadium": "BMO Field",
+        "city": "Toronto",
+        "country": "Canada",
+        "image": "https://images.unsplash.com/photo-1517090504586-fde19ea6066f?auto=format&fit=crop&w=900&q=80"
+      },
+      "home_goals": null,
+      "away_goals": null,
+      "played": false,
+      "winner": null
+    },
+    {
+      "id": "G35",
+      "round": "Grupo",
+      "group": "F",
+      "date": "2026-06-19",
+      "home": {
+        "name": "Netherlands",
+        "flag": "🇳🇱"
+      },
+      "away": {
+        "name": "Tunisia",
+        "flag": "🇹🇳"
+      },
+      "host": {
+        "stadium": "SoFi Stadium",
+        "city": "Los Angeles",
+        "country": "USA",
+        "image": "https://images.unsplash.com/photo-1534190760961-74e8c1c5c3da?auto=format&fit=crop&w=900&q=80"
+      },
+      "home_goals": null,
+      "away_goals": null,
+      "played": false,
+      "winner": null
+    },
+    {
+      "id": "G36",
+      "round": "Grupo",
+      "group": "F",
+      "date": "2026-06-19",
+      "home": {
+        "name": "Japan",
+        "flag": "🇯🇵"
+      },
+      "away": {
+        "name": "Sweden",
+        "flag": "🇸🇪"
+      },
+      "host": {
+        "stadium": "MetLife Stadium",
+        "city": "New York/New Jersey",
+        "country": "USA",
+        "image": "https://images.unsplash.com/photo-1485871981521-5b1fd3805eee?auto=format&fit=crop&w=900&q=80"
+      },
+      "home_goals": null,
+      "away_goals": null,
+      "played": false,
+      "winner": null
+    },
+    {
+      "id": "G37",
+      "round": "Grupo",
+      "group": "G",
+      "date": "2026-06-20",
+      "home": {
+        "name": "Belgium",
+        "flag": "🇧🇪"
+      },
+      "away": {
+        "name": "Egypt",
+        "flag": "🇪🇬"
+      },
+      "host": {
+        "stadium": "AT&T Stadium",
+        "city": "Dallas",
+        "country": "USA",
+        "image": "https://images.unsplash.com/photo-1546549032-9571cd6b27df?auto=format&fit=crop&w=900&q=80"
+      },
+      "home_goals": null,
+      "away_goals": null,
+      "played": false,
+      "winner": null
+    },
+    {
+      "id": "G38",
+      "round": "Grupo",
+      "group": "G",
+      "date": "2026-06-20",
+      "home": {
+        "name": "Iran",
+        "flag": "🇮🇷"
+      },
+      "away": {
+        "name": "New Zealand",
+        "flag": "🇳🇿"
+      },
+      "host": {
+        "stadium": "BC Place",
+        "city": "Vancouver",
+        "country": "Canada",
+        "image": "https://images.unsplash.com/photo-1560814304-4f05b62af116?auto=format&fit=crop&w=900&q=80"
+      },
+      "home_goals": null,
+      "away_goals": null,
+      "played": false,
+      "winner": null
+    },
+    {
+      "id": "G39",
+      "round": "Grupo",
+      "group": "G",
+      "date": "2026-06-20",
+      "home": {
+        "name": "Belgium",
+        "flag": "🇧🇪"
+      },
+      "away": {
+        "name": "Iran",
+        "flag": "🇮🇷"
+      },
+      "host": {
+        "stadium": "Hard Rock Stadium",
+        "city": "Miami",
+        "country": "USA",
+        "image": "https://images.unsplash.com/photo-1506966953602-c20cc11f75e3?auto=format&fit=crop&w=900&q=80"
+      },
+      "home_goals": null,
+      "away_goals": null,
+      "played": false,
+      "winner": null
+    },
+    {
+      "id": "G40",
+      "round": "Grupo",
+      "group": "G",
+      "date": "2026-06-20",
+      "home": {
+        "name": "Egypt",
+        "flag": "🇪🇬"
+      },
+      "away": {
+        "name": "New Zealand",
+        "flag": "🇳🇿"
+      },
+      "host": {
+        "stadium": "Estadio BBVA",
+        "city": "Monterrey",
+        "country": "Mexico",
+        "image": "https://images.unsplash.com/photo-1585464231875-d9ef1f5ad396?auto=format&fit=crop&w=900&q=80"
+      },
+      "home_goals": null,
+      "away_goals": null,
+      "played": false,
+      "winner": null
+    },
+    {
+      "id": "G41",
+      "round": "Grupo",
+      "group": "G",
+      "date": "2026-06-21",
+      "home": {
+        "name": "Belgium",
+        "flag": "🇧🇪"
+      },
+      "away": {
+        "name": "New Zealand",
+        "flag": "🇳🇿"
+      },
+      "host": {
+        "stadium": "Estadio Azteca",
+        "city": "Mexico City",
+        "country": "Mexico",
+        "image": "https://images.unsplash.com/photo-1518638150340-f706e86654de?auto=format&fit=crop&w=900&q=80"
+      },
+      "home_goals": null,
+      "away_goals": null,
+      "played": false,
+      "winner": null
+    },
+    {
+      "id": "G42",
+      "round": "Grupo",
+      "group": "G",
+      "date": "2026-06-21",
+      "home": {
+        "name": "Egypt",
+        "flag": "🇪🇬"
+      },
+      "away": {
+        "name": "Iran",
+        "flag": "🇮🇷"
+      },
+      "host": {
+        "stadium": "BMO Field",
+        "city": "Toronto",
+        "country": "Canada",
+        "image": "https://images.unsplash.com/photo-1517090504586-fde19ea6066f?auto=format&fit=crop&w=900&q=80"
+      },
+      "home_goals": null,
+      "away_goals": null,
+      "played": false,
+      "winner": null
+    },
+    {
+      "id": "G43",
+      "round": "Grupo",
+      "group": "H",
+      "date": "2026-06-21",
+      "home": {
+        "name": "Spain",
+        "flag": "🇪🇸"
+      },
+      "away": {
+        "name": "Cape Verde",
+        "flag": "🇨🇻"
+      },
+      "host": {
+        "stadium": "SoFi Stadium",
+        "city": "Los Angeles",
+        "country": "USA",
+        "image": "https://images.unsplash.com/photo-1534190760961-74e8c1c5c3da?auto=format&fit=crop&w=900&q=80"
+      },
+      "home_goals": null,
+      "away_goals": null,
+      "played": false,
+      "winner": null
+    },
+    {
+      "id": "G44",
+      "round": "Grupo",
+      "group": "H",
+      "date": "2026-06-21",
+      "home": {
+        "name": "Saudi Arabia",
+        "flag": "🇸🇦"
+      },
+      "away": {
+        "name": "Uruguay",
+        "flag": "🇺🇾"
+      },
+      "host": {
+        "stadium": "MetLife Stadium",
+        "city": "New York/New Jersey",
+        "country": "USA",
+        "image": "https://images.unsplash.com/photo-1485871981521-5b1fd3805eee?auto=format&fit=crop&w=900&q=80"
+      },
+      "home_goals": null,
+      "away_goals": null,
+      "played": false,
+      "winner": null
+    },
+    {
+      "id": "G45",
+      "round": "Grupo",
+      "group": "H",
+      "date": "2026-06-22",
+      "home": {
+        "name": "Spain",
+        "flag": "🇪🇸"
+      },
+      "away": {
+        "name": "Saudi Arabia",
+        "flag": "🇸🇦"
+      },
+      "host": {
+        "stadium": "AT&T Stadium",
+        "city": "Dallas",
+        "country": "USA",
+        "image": "https://images.unsplash.com/photo-1546549032-9571cd6b27df?auto=format&fit=crop&w=900&q=80"
+      },
+      "home_goals": null,
+      "away_goals": null,
+      "played": false,
+      "winner": null
+    },
+    {
+      "id": "G46",
+      "round": "Grupo",
+      "group": "H",
+      "date": "2026-06-22",
+      "home": {
+        "name": "Cape Verde",
+        "flag": "🇨🇻"
+      },
+      "away": {
+        "name": "Uruguay",
+        "flag": "🇺🇾"
+      },
+      "host": {
+        "stadium": "BC Place",
+        "city": "Vancouver",
+        "country": "Canada",
+        "image": "https://images.unsplash.com/photo-1560814304-4f05b62af116?auto=format&fit=crop&w=900&q=80"
+      },
+      "home_goals": null,
+      "away_goals": null,
+      "played": false,
+      "winner": null
+    },
+    {
+      "id": "G47",
+      "round": "Grupo",
+      "group": "H",
+      "date": "2026-06-22",
+      "home": {
+        "name": "Spain",
+        "flag": "🇪🇸"
+      },
+      "away": {
+        "name": "Uruguay",
+        "flag": "🇺🇾"
+      },
+      "host": {
+        "stadium": "Hard Rock Stadium",
+        "city": "Miami",
+        "country": "USA",
+        "image": "https://images.unsplash.com/photo-1506966953602-c20cc11f75e3?auto=format&fit=crop&w=900&q=80"
+      },
+      "home_goals": null,
+      "away_goals": null,
+      "played": false,
+      "winner": null
+    },
+    {
+      "id": "G48",
+      "round": "Grupo",
+      "group": "H",
+      "date": "2026-06-22",
+      "home": {
+        "name": "Cape Verde",
+        "flag": "🇨🇻"
+      },
+      "away": {
+        "name": "Saudi Arabia",
+        "flag": "🇸🇦"
+      },
+      "host": {
+        "stadium": "Estadio BBVA",
+        "city": "Monterrey",
+        "country": "Mexico",
+        "image": "https://images.unsplash.com/photo-1585464231875-d9ef1f5ad396?auto=format&fit=crop&w=900&q=80"
+      },
+      "home_goals": null,
+      "away_goals": null,
+      "played": false,
+      "winner": null
+    },
+    {
+      "id": "G49",
+      "round": "Grupo",
+      "group": "I",
+      "date": "2026-06-23",
+      "home": {
+        "name": "France",
+        "flag": "🇫🇷"
+      },
+      "away": {
+        "name": "Senegal",
+        "flag": "🇸🇳"
+      },
+      "host": {
+        "stadium": "Estadio Azteca",
+        "city": "Mexico City",
+        "country": "Mexico",
+        "image": "https://images.unsplash.com/photo-1518638150340-f706e86654de?auto=format&fit=crop&w=900&q=80"
+      },
+      "home_goals": null,
+      "away_goals": null,
+      "played": false,
+      "winner": null
+    },
+    {
+      "id": "G50",
+      "round": "Grupo",
+      "group": "I",
+      "date": "2026-06-23",
+      "home": {
+        "name": "Iraq",
+        "flag": "🇮🇶"
+      },
+      "away": {
+        "name": "Norway",
+        "flag": "🇳🇴"
+      },
+      "host": {
+        "stadium": "BMO Field",
+        "city": "Toronto",
+        "country": "Canada",
+        "image": "https://images.unsplash.com/photo-1517090504586-fde19ea6066f?auto=format&fit=crop&w=900&q=80"
+      },
+      "home_goals": null,
+      "away_goals": null,
+      "played": false,
+      "winner": null
+    },
+    {
+      "id": "G51",
+      "round": "Grupo",
+      "group": "I",
+      "date": "2026-06-23",
+      "home": {
+        "name": "France",
+        "flag": "🇫🇷"
+      },
+      "away": {
+        "name": "Iraq",
+        "flag": "🇮🇶"
+      },
+      "host": {
+        "stadium": "SoFi Stadium",
+        "city": "Los Angeles",
+        "country": "USA",
+        "image": "https://images.unsplash.com/photo-1534190760961-74e8c1c5c3da?auto=format&fit=crop&w=900&q=80"
+      },
+      "home_goals": null,
+      "away_goals": null,
+      "played": false,
+      "winner": null
+    },
+    {
+      "id": "G52",
+      "round": "Grupo",
+      "group": "I",
+      "date": "2026-06-23",
+      "home": {
+        "name": "Senegal",
+        "flag": "🇸🇳"
+      },
+      "away": {
+        "name": "Norway",
+        "flag": "🇳🇴"
+      },
+      "host": {
+        "stadium": "MetLife Stadium",
+        "city": "New York/New Jersey",
+        "country": "USA",
+        "image": "https://images.unsplash.com/photo-1485871981521-5b1fd3805eee?auto=format&fit=crop&w=900&q=80"
+      },
+      "home_goals": null,
+      "away_goals": null,
+      "played": false,
+      "winner": null
+    },
+    {
+      "id": "G53",
+      "round": "Grupo",
+      "group": "I",
+      "date": "2026-06-24",
+      "home": {
+        "name": "France",
+        "flag": "🇫🇷"
+      },
+      "away": {
+        "name": "Norway",
+        "flag": "🇳🇴"
+      },
+      "host": {
+        "stadium": "AT&T Stadium",
+        "city": "Dallas",
+        "country": "USA",
+        "image": "https://images.unsplash.com/photo-1546549032-9571cd6b27df?auto=format&fit=crop&w=900&q=80"
+      },
+      "home_goals": null,
+      "away_goals": null,
+      "played": false,
+      "winner": null
+    },
+    {
+      "id": "G54",
+      "round": "Grupo",
+      "group": "I",
+      "date": "2026-06-24",
+      "home": {
+        "name": "Senegal",
+        "flag": "🇸🇳"
+      },
+      "away": {
+        "name": "Iraq",
+        "flag": "🇮🇶"
+      },
+      "host": {
+        "stadium": "BC Place",
+        "city": "Vancouver",
+        "country": "Canada",
+        "image": "https://images.unsplash.com/photo-1560814304-4f05b62af116?auto=format&fit=crop&w=900&q=80"
+      },
+      "home_goals": null,
+      "away_goals": null,
+      "played": false,
+      "winner": null
+    },
+    {
+      "id": "G55",
+      "round": "Grupo",
+      "group": "J",
+      "date": "2026-06-24",
+      "home": {
+        "name": "Argentina",
+        "flag": "🇦🇷"
+      },
+      "away": {
+        "name": "Algeria",
+        "flag": "🇩🇿"
+      },
+      "host": {
+        "stadium": "Hard Rock Stadium",
+        "city": "Miami",
+        "country": "USA",
+        "image": "https://images.unsplash.com/photo-1506966953602-c20cc11f75e3?auto=format&fit=crop&w=900&q=80"
+      },
+      "home_goals": null,
+      "away_goals": null,
+      "played": false,
+      "winner": null
+    },
+    {
+      "id": "G56",
+      "round": "Grupo",
+      "group": "J",
+      "date": "2026-06-24",
+      "home": {
+        "name": "Austria",
+        "flag": "🇦🇹"
+      },
+      "away": {
+        "name": "Jordan",
+        "flag": "🇯🇴"
+      },
+      "host": {
+        "stadium": "Estadio BBVA",
+        "city": "Monterrey",
+        "country": "Mexico",
+        "image": "https://images.unsplash.com/photo-1585464231875-d9ef1f5ad396?auto=format&fit=crop&w=900&q=80"
+      },
+      "home_goals": null,
+      "away_goals": null,
+      "played": false,
+      "winner": null
+    },
+    {
+      "id": "G57",
+      "round": "Grupo",
+      "group": "J",
+      "date": "2026-06-25",
+      "home": {
+        "name": "Argentina",
+        "flag": "🇦🇷"
+      },
+      "away": {
+        "name": "Austria",
+        "flag": "🇦🇹"
+      },
+      "host": {
+        "stadium": "Estadio Azteca",
+        "city": "Mexico City",
+        "country": "Mexico",
+        "image": "https://images.unsplash.com/photo-1518638150340-f706e86654de?auto=format&fit=crop&w=900&q=80"
+      },
+      "home_goals": null,
+      "away_goals": null,
+      "played": false,
+      "winner": null
+    },
+    {
+      "id": "G58",
+      "round": "Grupo",
+      "group": "J",
+      "date": "2026-06-25",
+      "home": {
+        "name": "Algeria",
+        "flag": "🇩🇿"
+      },
+      "away": {
+        "name": "Jordan",
+        "flag": "🇯🇴"
+      },
+      "host": {
+        "stadium": "BMO Field",
+        "city": "Toronto",
+        "country": "Canada",
+        "image": "https://images.unsplash.com/photo-1517090504586-fde19ea6066f?auto=format&fit=crop&w=900&q=80"
+      },
+      "home_goals": null,
+      "away_goals": null,
+      "played": false,
+      "winner": null
+    },
+    {
+      "id": "G59",
+      "round": "Grupo",
+      "group": "J",
+      "date": "2026-06-25",
+      "home": {
+        "name": "Argentina",
+        "flag": "🇦🇷"
+      },
+      "away": {
+        "name": "Jordan",
+        "flag": "🇯🇴"
+      },
+      "host": {
+        "stadium": "SoFi Stadium",
+        "city": "Los Angeles",
+        "country": "USA",
+        "image": "https://images.unsplash.com/photo-1534190760961-74e8c1c5c3da?auto=format&fit=crop&w=900&q=80"
+      },
+      "home_goals": null,
+      "away_goals": null,
+      "played": false,
+      "winner": null
+    },
+    {
+      "id": "G60",
+      "round": "Grupo",
+      "group": "J",
+      "date": "2026-06-25",
+      "home": {
+        "name": "Algeria",
+        "flag": "🇩🇿"
+      },
+      "away": {
+        "name": "Austria",
+        "flag": "🇦🇹"
+      },
+      "host": {
+        "stadium": "MetLife Stadium",
+        "city": "New York/New Jersey",
+        "country": "USA",
+        "image": "https://images.unsplash.com/photo-1485871981521-5b1fd3805eee?auto=format&fit=crop&w=900&q=80"
+      },
+      "home_goals": null,
+      "away_goals": null,
+      "played": false,
+      "winner": null
+    },
+    {
+      "id": "G61",
+      "round": "Grupo",
+      "group": "K",
+      "date": "2026-06-26",
+      "home": {
+        "name": "Portugal",
+        "flag": "🇵🇹"
+      },
+      "away": {
+        "name": "Congo DR",
+        "flag": "🇨🇩"
+      },
+      "host": {
+        "stadium": "AT&T Stadium",
+        "city": "Dallas",
+        "country": "USA",
+        "image": "https://images.unsplash.com/photo-1546549032-9571cd6b27df?auto=format&fit=crop&w=900&q=80"
+      },
+      "home_goals": null,
+      "away_goals": null,
+      "played": false,
+      "winner": null
+    },
+    {
+      "id": "G62",
+      "round": "Grupo",
+      "group": "K",
+      "date": "2026-06-26",
+      "home": {
+        "name": "Uzbekistan",
+        "flag": "🇺🇿"
+      },
+      "away": {
+        "name": "Colombia",
+        "flag": "🇨🇴"
+      },
+      "host": {
+        "stadium": "BC Place",
+        "city": "Vancouver",
+        "country": "Canada",
+        "image": "https://images.unsplash.com/photo-1560814304-4f05b62af116?auto=format&fit=crop&w=900&q=80"
+      },
+      "home_goals": null,
+      "away_goals": null,
+      "played": false,
+      "winner": null
+    },
+    {
+      "id": "G63",
+      "round": "Grupo",
+      "group": "K",
+      "date": "2026-06-26",
+      "home": {
+        "name": "Portugal",
+        "flag": "🇵🇹"
+      },
+      "away": {
+        "name": "Uzbekistan",
+        "flag": "🇺🇿"
+      },
+      "host": {
+        "stadium": "Hard Rock Stadium",
+        "city": "Miami",
+        "country": "USA",
+        "image": "https://images.unsplash.com/photo-1506966953602-c20cc11f75e3?auto=format&fit=crop&w=900&q=80"
+      },
+      "home_goals": null,
+      "away_goals": null,
+      "played": false,
+      "winner": null
+    },
+    {
+      "id": "G64",
+      "round": "Grupo",
+      "group": "K",
+      "date": "2026-06-26",
+      "home": {
+        "name": "Congo DR",
+        "flag": "🇨🇩"
+      },
+      "away": {
+        "name": "Colombia",
+        "flag": "🇨🇴"
+      },
+      "host": {
+        "stadium": "Estadio BBVA",
+        "city": "Monterrey",
+        "country": "Mexico",
+        "image": "https://images.unsplash.com/photo-1585464231875-d9ef1f5ad396?auto=format&fit=crop&w=900&q=80"
+      },
+      "home_goals": null,
+      "away_goals": null,
+      "played": false,
+      "winner": null
+    },
+    {
+      "id": "G65",
+      "round": "Grupo",
+      "group": "K",
+      "date": "2026-06-27",
+      "home": {
+        "name": "Portugal",
+        "flag": "🇵🇹"
+      },
+      "away": {
+        "name": "Colombia",
+        "flag": "🇨🇴"
+      },
+      "host": {
+        "stadium": "Estadio Azteca",
+        "city": "Mexico City",
+        "country": "Mexico",
+        "image": "https://images.unsplash.com/photo-1518638150340-f706e86654de?auto=format&fit=crop&w=900&q=80"
+      },
+      "home_goals": null,
+      "away_goals": null,
+      "played": false,
+      "winner": null
+    },
+    {
+      "id": "G66",
+      "round": "Grupo",
+      "group": "K",
+      "date": "2026-06-27",
+      "home": {
+        "name": "Congo DR",
+        "flag": "🇨🇩"
+      },
+      "away": {
+        "name": "Uzbekistan",
+        "flag": "🇺🇿"
+      },
+      "host": {
+        "stadium": "BMO Field",
+        "city": "Toronto",
+        "country": "Canada",
+        "image": "https://images.unsplash.com/photo-1517090504586-fde19ea6066f?auto=format&fit=crop&w=900&q=80"
+      },
+      "home_goals": null,
+      "away_goals": null,
+      "played": false,
+      "winner": null
+    },
+    {
+      "id": "G67",
+      "round": "Grupo",
+      "group": "L",
+      "date": "2026-06-27",
+      "home": {
+        "name": "England",
+        "flag": "🏴"
+      },
+      "away": {
+        "name": "Croatia",
+        "flag": "🇭🇷"
+      },
+      "host": {
+        "stadium": "SoFi Stadium",
+        "city": "Los Angeles",
+        "country": "USA",
+        "image": "https://images.unsplash.com/photo-1534190760961-74e8c1c5c3da?auto=format&fit=crop&w=900&q=80"
+      },
+      "home_goals": null,
+      "away_goals": null,
+      "played": false,
+      "winner": null
+    },
+    {
+      "id": "G68",
+      "round": "Grupo",
+      "group": "L",
+      "date": "2026-06-27",
+      "home": {
+        "name": "Ghana",
+        "flag": "🇬🇭"
+      },
+      "away": {
+        "name": "Panama",
+        "flag": "🇵🇦"
+      },
+      "host": {
+        "stadium": "MetLife Stadium",
+        "city": "New York/New Jersey",
+        "country": "USA",
+        "image": "https://images.unsplash.com/photo-1485871981521-5b1fd3805eee?auto=format&fit=crop&w=900&q=80"
+      },
+      "home_goals": null,
+      "away_goals": null,
+      "played": false,
+      "winner": null
+    },
+    {
+      "id": "G69",
+      "round": "Grupo",
+      "group": "L",
+      "date": "2026-06-28",
+      "home": {
+        "name": "England",
+        "flag": "🏴"
+      },
+      "away": {
+        "name": "Ghana",
+        "flag": "🇬🇭"
+      },
+      "host": {
+        "stadium": "AT&T Stadium",
+        "city": "Dallas",
+        "country": "USA",
+        "image": "https://images.unsplash.com/photo-1546549032-9571cd6b27df?auto=format&fit=crop&w=900&q=80"
+      },
+      "home_goals": null,
+      "away_goals": null,
+      "played": false,
+      "winner": null
+    },
+    {
+      "id": "G70",
+      "round": "Grupo",
+      "group": "L",
+      "date": "2026-06-28",
+      "home": {
+        "name": "Croatia",
+        "flag": "🇭🇷"
+      },
+      "away": {
+        "name": "Panama",
+        "flag": "🇵🇦"
+      },
+      "host": {
+        "stadium": "BC Place",
+        "city": "Vancouver",
+        "country": "Canada",
+        "image": "https://images.unsplash.com/photo-1560814304-4f05b62af116?auto=format&fit=crop&w=900&q=80"
+      },
+      "home_goals": null,
+      "away_goals": null,
+      "played": false,
+      "winner": null
+    },
+    {
+      "id": "G71",
+      "round": "Grupo",
+      "group": "L",
+      "date": "2026-06-28",
+      "home": {
+        "name": "England",
+        "flag": "🏴"
+      },
+      "away": {
+        "name": "Panama",
+        "flag": "🇵🇦"
+      },
+      "host": {
+        "stadium": "Hard Rock Stadium",
+        "city": "Miami",
+        "country": "USA",
+        "image": "https://images.unsplash.com/photo-1506966953602-c20cc11f75e3?auto=format&fit=crop&w=900&q=80"
+      },
+      "home_goals": null,
+      "away_goals": null,
+      "played": false,
+      "winner": null
+    },
+    {
+      "id": "G72",
+      "round": "Grupo",
+      "group": "L",
+      "date": "2026-06-28",
+      "home": {
+        "name": "Croatia",
+        "flag": "🇭🇷"
+      },
+      "away": {
+        "name": "Ghana",
+        "flag": "🇬🇭"
+      },
+      "host": {
+        "stadium": "Estadio BBVA",
+        "city": "Monterrey",
+        "country": "Mexico",
+        "image": "https://images.unsplash.com/photo-1585464231875-d9ef1f5ad396?auto=format&fit=crop&w=900&q=80"
+      },
+      "home_goals": null,
+      "away_goals": null,
+      "played": false,
+      "winner": null
+    }
+  ],
+  "playoffs": [],
+  "champion": null,
+  "third_place": null,
+  "mvp": null,
+  "scorers": {}
+}
